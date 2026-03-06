@@ -3,9 +3,6 @@
 > **Note:** This script and documentation were created with the help of [Claude](https://claude.ai) (Anthropic AI).
 
 A simple Python script that recovers missing teleprompter scripts in **Elgato Camera Hub** on Windows.
-
-> **Keywords:** elgato prompter scripts missing, camera hub texts disappeared, teleprompter scripts gone, prompter library empty, scripts not showing, camera hub lost scripts, elgato scripts reset, prompter texts missing after update, camera hub scripts vanished, elgato teleprompter recovery
-
 ---
 
 ## The Problem

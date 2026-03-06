@@ -23,12 +23,6 @@ However, the app also maintains a separate list of which scripts to display, sto
 - Fixes duplicate `index` values across script files to prevent ordering conflicts
 - Creates an automatic backup of `AppSettings.json` before making any changes
 
-## Requirements
-
-- Windows
-- Python 3.x — download from [python.org](https://www.python.org/downloads/) if not already installed
-  - During installation, make sure to check **"Add Python to PATH"**
-
 ## Usage
 
 1. **Close Camera Hub completely** — right-click the tray icon and select *Quit Camera Hub*

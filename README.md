@@ -1,8 +1,6 @@
 # Elgato Prompter Text Recoverer – Fix Missing Scripts in Camera Hub
 
 > **Note:** This script and documentation were created with the help of [Claude](https://claude.ai) (Anthropic AI).
-
-A simple Python script that recovers missing teleprompter scripts in **Elgato Camera Hub** on Windows.
 ---
 
 ## The Problem
